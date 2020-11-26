@@ -1,4 +1,4 @@
-anime.timeline({loop: true})
+anime.timeline({loop: false})
   .add({
     targets: '.ml15 .word',
     scale: [14,1],
