@@ -40,7 +40,12 @@ h3 {
   color:#ffff47;
   text-align: center;
 }
-
+.wave-top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
 /* id's */
 #first .invisible{
   visibility: hidden;
