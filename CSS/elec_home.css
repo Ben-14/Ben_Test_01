@@ -48,7 +48,13 @@ h3 {
 #end {
   box-sizing: border-box;
 }
-.wave-top {
+/*.wave-top {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}*/
+#wave {
   position: absolute;
   top: 0;
   left: 0;
