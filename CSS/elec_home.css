@@ -4,7 +4,7 @@ html {
 }
 body {
   margin-top: 60px;
-  background-color:#27292e;
+  background-color:#fff;
   overflow-x: hidden;
   align-items: center;
 }
@@ -12,13 +12,13 @@ h1{
   font-family: 'Montserrat',sans-serif;
   font-weight: bold;
   font-size: 150px;
-  color:#ffff47;
+  color:#27292e;
 }
 h2 {
   font-family: 'Montserrat',sans-serif;
   font-weight: bold;
   font-size: 40px;
-  color:#ffff47;
+  color:#27292e;
   text-align: center;
 }
 
@@ -31,13 +31,13 @@ h4 {
   font-family: 'Montserrat',sans-serif;
   font-weight: bold;
   font-size: 50px;
-  color:#ffff47;
+  color:#27292e;
 }
 h3 {
   font-family: 'Montserrat',sans-serif;
   font-weight: bold;
   font-size: 50px;
-  color:#ffff47;
+  color:#27292e;
   text-align: center;
 }
 
